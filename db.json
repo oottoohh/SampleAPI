@@ -19,54 +19,5 @@
         "InputListitem": "Chrysler",
         "date1": "2018-06-21 21:22:45",
         "date2": "2018-10-21 04:19:22"
-    },
-    {
-        "input1": "a4b728ab-5ff9-43d1-84f0-b00d33b808a1",
-        "input2": 4,
-        "InputListitem": "Chevrolet",
-        "date1": "2018-03-09 01:55:02",
-        "date2": "2018-06-21 16:17:19"
-    },
-    {
-        "input1": "38d79763-141e-4bfa-a489-dd38a11c231d",
-        "input2": 5,
-        "InputListitem": "Audi",
-        "date1": "2018-02-18 11:56:14",
-        "date2": "2018-11-21 13:16:00"
-    },
-    {
-        "input1": "3e393fca-30d1-4233-9bea-13dac74a0578",
-        "input2": 6,
-        "InputListitem": "Volvo",
-        "date1": "2018-06-20 18:11:28",
-        "date2": "2018-02-09 06:10:00"
-    },
-    {
-        "input1": "13a15443-4ab2-4eed-b447-0f25b99a9a4c",
-        "input2": 7,
-        "InputListitem": "Panoz",
-        "date1": "2018-12-26 17:34:11",
-        "date2": "2018-12-19 19:13:06"
-    },
-    {
-        "input1": "f6e141e0-0253-4e08-9065-8d82ba1d57e3",
-        "input2": 8,
-        "InputListitem": "Ford",
-        "date1": "2018-03-01 13:48:48",
-        "date2": "2018-06-03 03:53:18"
-    },
-    {
-        "input1": "2e81e55c-7e25-4b6d-85eb-51c9b9cd956c",
-        "input2": 9,
-        "InputListitem": "Mazda",
-        "date1": "2018-09-07 13:51:07",
-        "date2": "2018-10-07 22:38:23"
-    },
-    {
-        "input1": "5164c556-c7b9-468c-b043-8888a296a39b",
-        "input2": 10,
-        "InputListitem": "Saab",
-        "date1": "2018-08-20 02:19:31",
-        "date2": "2018-04-02 13:57:04"
     }
 ]
