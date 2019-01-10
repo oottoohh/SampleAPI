@@ -68,47 +68,5 @@
         "InputListitem": "Saab",
         "date1": "2018-08-20 02:19:31",
         "date2": "2018-04-02 13:57:04"
-    },
-    {
-        "input1": "bd10e8fa-3843-474f-bb1e-48c2b55625f0",
-        "input2": 11,
-        "InputListitem": "Lincoln",
-        "date1": "2018-06-01 02:21:04",
-        "date2": "2018-09-05 19:14:30"
-    },
-    {
-        "input1": "c278c44c-48b6-40b8-b45c-73b8267cc756",
-        "input2": 12,
-        "InputListitem": "Saab",
-        "date1": "2018-04-04 23:49:56",
-        "date2": "2018-05-09 22:25:39"
-    },
-    {
-        "input1": "82f5cfbf-5b1b-42b2-aac7-607c9bfdfb32",
-        "input2": 13,
-        "InputListitem": "Mercury",
-        "date1": "2018-09-29 08:47:32",
-        "date2": "2018-04-23 07:20:34"
-    },
-    {
-        "input1": "a80a3568-f8f1-4ace-855e-cff6fcaada86",
-        "input2": 14,
-        "InputListitem": "Audi",
-        "date1": "2018-05-31 19:28:29",
-        "date2": "2018-02-23 17:25:45"
-    },
-    {
-        "input1": "9efe512c-01bc-49bf-8642-7df6ec8b2cd6",
-        "input2": 15,
-        "InputListitem": "Oldsmobile",
-        "date1": "2018-12-18 16:13:11",
-        "date2": "2018-08-25 17:17:45"
-    },
-    {
-        "input1": "506491b4-c09a-4233-b30c-9b0df1414177",
-        "input2": 16,
-        "InputListitem": "Ford",
-        "date1": "2018-11-13 03:40:42",
-        "date2": "2018-10-27 18:11:54"
-    },
-    
+    }
+]
